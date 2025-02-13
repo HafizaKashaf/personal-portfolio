@@ -5,7 +5,8 @@ export default function Footer() {
     <section className="flex items-center justify-center py-10 text-white">
       <div className="w-full  px-10 rounded-2xl  text-center  border-gray-800">
         {/* Footer Title */}
-        <h1 className="text-5xl font-extrabold text-yellow-400 mb-6 uppercase tracking-wide">Let's Connect</h1>
+        <h1 className="text-5xl font-extrabold text-yellow-400 mb-6 uppercase tracking-wide">Let&apos;s Connect
+        </h1>
         <p className="text-gray-300 text-lg mb-8">
           Feel free to reach out for collaborations, projects, or just to say hello!
         </p>

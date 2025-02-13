@@ -21,7 +21,7 @@ const Hero = () => {
 
         </div>
         <div className='col-span-3'>
-            <h1 className='text-[20px] xl:text-[26px] uppercase text-orange-500 font-semibold'>Hello i'm</h1>
+            <h1 className='text-[20px] xl:text-[26px] uppercase text-orange-500 font-semibold'>Hello i&apos;m</h1>
             <h1 className='text-[35px] lg:text[45px] xl:text-[60px] font-bold text-white'>Kashaf<span className='text-red-500'>Noor</span></h1>
             <h1 className='text-[24p] lg:text-[28px] xl:text-[35px] text-white text-opacity-80'>Fullstack Web Developer</h1>
             <p className='text-[16px] xl:text-[18px] text-white text-opacity-60 mt-[1.5rem]'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque ratione voluptatem reiciendis exercitationem similique aut inventore facere dolor quas quam praesentium perspiciatis quod enim nostrum assumenda molestiae, dolorem hic aliquid.</p>

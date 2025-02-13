@@ -36,7 +36,10 @@ export default function Testimonials() {
             <FaChevronLeft className="text-black w-6 h-6" />
           </button>
           <div className="flex-1">
-            <p className="text-gray-300 italic">"{testimonials[currentIndex].feedback}"</p>
+          <p className="text-gray-300 italic">
+  &quot;{testimonials[currentIndex].feedback}&quot;
+</p>
+
             <h2 className="text-yellow-400 text-xl mt-4">- {testimonials[currentIndex].name}</h2>
             <div className="flex justify-center mt-2">
               {[...Array(testimonials[currentIndex].rating)].map((_, i) => (

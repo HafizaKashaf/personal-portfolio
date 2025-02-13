@@ -39,7 +39,8 @@ export default function About() {
           
           {/* Contact Section */}
           <div className="mt-8">
-            <p className="text-gray-300 text-lg">Let's connect and create something amazing!</p>
+          <p className="text-gray-300 text-lg">Let&apos;s connect and create something amazing!</p>
+
             <a
               href="mailto:kashafnoor@example.com"
               className="mt-4 inline-block bg-red-400 text-gray-900 px-6 py-3 rounded-full font-medium shadow-lg hover:bg-red-500 transition duration-300"
